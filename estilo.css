@@ -4,3 +4,10 @@ h1{
 body{
     background-color: chocolate;
 }
+h3{
+    color: blue ;
+}
+p{
+    text.justify : auto ;
+    color : blue ;
+}
